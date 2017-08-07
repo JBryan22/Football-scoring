@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/FootBallScoring.Tests.deps.json
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/FootBallScoring.Tests.runtimeconfig.json
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/FootBallScoring.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/obj/Debug/netcoreapp1.1/FootBallScoring.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/FootBallScoring.Tests.dll
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/FootBallScoring.Tests.pdb
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/FootBallScoring.dll
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/bin/Debug/netcoreapp1.1/FootBallScoring.pdb
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/obj/Debug/netcoreapp1.1/FootBallScoring.Tests.dll
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring.Tests/obj/Debug/netcoreapp1.1/FootBallScoring.Tests.pdb

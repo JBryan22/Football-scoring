@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring/bin/Debug/netcoreapp1.1/FootBallScoring.deps.json
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring/bin/Debug/netcoreapp1.1/FootBallScoring.runtimeconfig.json
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring/bin/Debug/netcoreapp1.1/FootBallScoring.runtimeconfig.dev.json
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring/obj/Debug/netcoreapp1.1/FootBallScoring.AssemblyInfo.cs
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring/bin/Debug/netcoreapp1.1/FootBallScoring.dll
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring/bin/Debug/netcoreapp1.1/FootBallScoring.pdb
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring/obj/Debug/netcoreapp1.1/FootBallScoring.dll
+/Users/Guest/Desktop/FootBallScoring.Solution/FootBallScoring/obj/Debug/netcoreapp1.1/FootBallScoring.pdb
